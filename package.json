@@ -1,0 +1,15 @@
+{
+  "name": "google-drive-oauth-access",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:expobrain/google-drive-oauth-access.git",
+  "author": "Daniele Esposti",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "code:format": "prettier --write *.md **/*.js",
+    "code:format:check": "prettier --check *.md **/*.js"
+  }
+}
